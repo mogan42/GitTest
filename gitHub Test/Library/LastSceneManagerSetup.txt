@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/test.unity
+- path: C:/Users/morgan.davies/Documents/GitTestcopy/gitHub Test/Assets/test.unity
   isLoaded: 1
   isActive: 1
